@@ -243,7 +243,7 @@ channel,id,name,is_main,broadcast_area,timezones,languages,video_format
 4KHERiTAGE.us,SD,SD,TRUE,c/US,America/New_York,eng;fra,480i
 4KidsTV.dz,SD,SD,TRUE,c/DZ,Africa/Algiers,ara;fra;eng,576i
 4KUniverse.us,SD,SD,TRUE,c/US,America/Santiago,eng,480i
-4KurdHD.fr,SD,SD,TRUE,c/IR,Europe/Paris,kur,576i
+4KurdHD.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas;kur,576i
 4Music.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
 4Plus.ch,SD,SD,TRUE,c/CH,Europe/Zurich,deu,576i
 4seven.uk,HD,HD,FALSE,c/UK,America/Toronto,eng,1080i
@@ -1234,7 +1234,7 @@ AlkassTwo.qa,HD,HD,FALSE,c/QA,Asia/Qatar,ara,1080i
 AlkassTwo.qa,SD,SD,TRUE,c/QA,Asia/Qatar,ara,576i
 AlkaunTV.mv,SD,SD,TRUE,c/MV,Indian/Maldives,div,576i
 AlKawtharTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,ara,576i
-AlkerazaTV.us,SD,SD,TRUE,c/US,America/New_York,fas,480i
+AlkerazaTV.us,SD,SD,TRUE,c/US,America/New_York,ara,480i
 AlKhabarTeleSite.sy,SD,SD,TRUE,c/SY,Asia/Damascus,ara,576i
 AlKhadimiyyahTV.sn,SD,SD,TRUE,c/SN,Africa/Abidjan,fra,576i
 AlKhalijTV.sa,SD,SD,TRUE,c/SA,Asia/Riyadh,ara,576i
@@ -1274,7 +1274,7 @@ AlmagdTVNorthAmerica.us,SD,SD,TRUE,c/US,America/New_York,ara;eng,480i
 AlmagharibiaTV.uk,SD,SD,TRUE,c/UK;c/DZ,America/Toronto,ara,576i
 AlMaghribia.ma,SD,SD,TRUE,c/MA,Africa/Casablanca,ara,576i
 AlmahaliyaTV.sy,SD,SD,TRUE,c/SY,Asia/Damascus,ara,576i
-AlMahdiTV.us,SD,SD,TRUE,c/US,America/New_York,fas,480i
+AlMahdiTV.us,SD,SD,TRUE,c/US,America/New_York,ara,480i
 AlMahrahTV.ye,SD,SD,TRUE,c/YE,Asia/Aden,ara,576i
 AlmahriahTV.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,ara,576i
 AlMajdAlHadeethAlNabawy.sa,SD,SD,TRUE,c/SA,Asia/Riyadh,ara,576i
@@ -2072,7 +2072,7 @@ AssembleenationaleduQuebec.ca,SD,SD,TRUE,c/CA,America/Toronto,fra,480i
 AssembleiaLegislativaTV.br,SD,SD,TRUE,c/BR,America/Sao_Paulo,por,480i
 AssenTV.nl,SD,SD,TRUE,c/NL,Europe/Amsterdam,nld,576i
 AssholeFever.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
-AssiratTV.ir,SD,SD,TRUE,c/IR;c/LB,Asia/Tehran,ara;fas,576i
+AssiratTV.ir,SD,SD,TRUE,c/IR;c/LB,Asia/Tehran,ara,576i
 AssParade.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
 AsSunnahTV.et,SD,SD,TRUE,c/ET,Africa/Addis_Ababa,amh,576i
 AssyrianANB.us,SD,SD,TRUE,c/US,America/La_Paz,ara,480i
@@ -2341,7 +2341,7 @@ AutonomaTV.cl,SD,SD,TRUE,c/CL,America/Santiago,spa,480i
 AutonomaTV.uy,SD,SD,TRUE,c/UY,America/Montevideo,spa,576i
 AutoPlus.ru,SD,SD,TRUE,c/RU,Europe/Moscow,rus,576i
 AvaEntertainment.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,kur;eng,576i
-AVAFamily.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,kur;eng,576i
+AVAFamily.ir,SD,SD,TRUE,c/IQ,Asia/Baghdad,fas,576i
 AvanceHD.hn,SD,SD,TRUE,c/HN,America/Tegucigalpa,spa,480i
 AvangTV.us,SD,SD,TRUE,c/US;c/IR,America/Santiago,fas,480i
 AvarTV.iq,HD,HD,TRUE,c/IQ,Asia/Baghdad,kur,1080p
@@ -9749,6 +9749,7 @@ FX.us,East,East,TRUE,c/US,America/New_York,eng,480i
 FX.us,West,West,FALSE,c/US,America/Los_Angeles,eng,480i
 FX1.fr,SD,SD,TRUE,c/FR,America/Santiago,ara;fra;eng,576i
 FX1.ir,SD,SD,TRUE,c/IR,America/Santiago,fas,576i
+FX2.ir,SD,SD,TRUE,c/IR,America/Santiago,fas,576i
 FX2.fr,SD,SD,TRUE,c/FR,Europe/Paris,ara;fra;eng,576i
 FXLatinAmerica.us,Brazil,Brazil,FALSE,c/BR,America/Asuncion,por,480i
 FXLatinAmerica.us,Panregional,Panregional,TRUE,c/CO;c/EC;r/CENAMER;r/CARIB;c/PE;c/BO;c/VE,America/Asuncion,spa,480i
@@ -10290,7 +10291,7 @@ GradskaTelevizija.me,SD,SD,TRUE,c/ME,Europe/Podgorica,cnr,576i
 GranCanariaTV.es,SD,SD,TRUE,s/ES-CN,Atlantic/Canary,spa,576i
 GranCine.us,SD,SD,TRUE,c/US,America/New_York,spa,480i
 Grand.rs,SD,SD,TRUE,c/RS,Europe/Belgrade,srp,576i
-GrandCinema.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur;eng;ara,576i
+GrandCinema.ir,SD,SD,TRUE,c/IR,Europe/Istanbul,fas,576i
 GrandeBolly.ng,SD,SD,TRUE,c/NG,Africa/Lagos,eng,576i
 GrandeGospel.ng,SD,SD,TRUE,c/NG,Africa/Lagos,eng,576i
 Grandeish.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
@@ -11484,6 +11485,7 @@ IcaroTV.it,SD,SD,TRUE,c/IT,Europe/Rome,ita,576i
 ICATCommunityAccess.us,SD,SD,TRUE,s/US-NY,America/New_York,eng,480i
 ICATGovernmentAccess.us,SD,SD,TRUE,s/US-NY,America/New_York,eng,480i
 ICC.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
+ICCplus.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 Ice1TV.gh,SD,SD,TRUE,c/GH,Africa/Accra,eng,576i
 IceFire.hk,SD,SD,TRUE,c/HK,Asia/Hong_Kong,zho,576i
 IcelTV.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
@@ -11840,7 +11842,7 @@ iQtv.us,SD,SD,TRUE,s/US-TN,America/Chicago,eng,480i
 IquiqueTV.cl,SD,SD,TRUE,c/CL,America/Santiago,spa,480i
 IranBeauty.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IraneAryaeeTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
-IraneFardaTV.uk,SD,SD,TRUE,c/US;c/IR,America/Toronto,fas,576i
+IraneFardaTV.uk,SD,SD,TRUE,c/US;c/IR,America/Toronto,fas,720p
 IranInternational.uk,SD,SD,TRUE,c/UK;c/IR,America/Toronto,fas,576i
 IranJewishTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IranPress.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas;eng,576i
@@ -11858,7 +11860,7 @@ IRIB4.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IRIBIranKala.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IRIBMostanad.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IRIBOmid.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
-IRIBUHD.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+IRIBUHD.ir,4K,4K,TRUE,c/IR,Asia/Tehran,fas,2160p
 IridaTV.gr,SD,SD,TRUE,c/GR,Europe/Athens,ell,576i
 IRINN.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 IRINN2.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
@@ -20287,7 +20289,7 @@ MTA8America.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
 MTATV.id,SD,SD,TRUE,c/ID,Asia/Jakarta,ind,576i
 MtavariArkhi.ge,SD,SD,TRUE,c/GE,Asia/Tbilisi,kat;eng,576i
 MtBluePublicTV.us,SD,SD,TRUE,s/US-TX,America/Denver,eng,480i
-MTC.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
+MTC.us,SD,SD,TRUE,c/US,America/New_York,fas,720p
 MtKenyaTV.ke,SD,SD,TRUE,c/KE,Africa/Nairobi,eng,576i
 MTM.mk,SD,SD,TRUE,c/MK,Europe/Skopje,mkd,576i
 MTM.ua,SD,SD,TRUE,c/UA,Europe/Kyiv,ukr,576i
@@ -23010,7 +23012,7 @@ PersianaLatino.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas;spa,576i
 PersianaMusic.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 PersianaNostalgia.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 PersianaPlus.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
-PersianaRap.fr,SD,SD,TRUE,c/IR,Europe/Paris,fra,576i
+PersianaRap.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 PersianaScience.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 PersianaSonnati.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 PersianaSports.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
