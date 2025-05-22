@@ -125,7 +125,7 @@ channel,id,name,is_main,broadcast_area,timezones,languages,video_format
 247Retro.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
 247TV.bo,SD,SD,TRUE,c/BO,America/La_Paz,spa,480i
 24B.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
-247box.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+247BoxTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 24Horas.cl,SD,SD,TRUE,c/CL,America/Santiago,spa,480i
 24Horas.es,SD,SD,TRUE,c/ES,Europe/Madrid,spa;eng,576i
 24HorasCanarias.es,SD,SD,TRUE,s/ES-CN,Europe/Madrid,spa;eng,576i
@@ -245,7 +245,7 @@ channel,id,name,is_main,broadcast_area,timezones,languages,video_format
 4KHERiTAGE.us,SD,SD,TRUE,c/US,America/New_York,eng;fra,480i
 4KidsTV.dz,SD,SD,TRUE,c/DZ,Africa/Algiers,ara;fra;eng,576i
 4KUniverse.us,SD,SD,TRUE,c/US,America/Santiago,eng,480i
-4KurdHD.ir,SD,SD,TRUE,c/IR,Europe/Paris,fas;kur,576i
+4KurdHD.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas;kur,576i
 4Music.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
 4Sport.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 4Plus.ch,SD,SD,TRUE,c/CH,Europe/Zurich,deu,576i
@@ -253,9 +253,9 @@ channel,id,name,is_main,broadcast_area,timezones,languages,video_format
 4seven.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
 4SightNews.in,SD,SD,TRUE,c/IN,Asia/Kolkata,tel,576i
 4SyteTV.gh,SD,SD,TRUE,c/GH,Africa/Accra,eng,576i
-4Turk.ir,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
+4Turk.fr,SD,SD,TRUE,c/IR,Europe/Paris,fas,576i
 4TVNews.in,SD,SD,TRUE,c/IN,Asia/Kolkata,urd,576i
-4UTV.ir,SD,SD,TRUE,c/TR;c/IR,Europe/Istanbul,fas,576i
+4UTV.tr,SD,SD,TRUE,c/TR;c/IR,Europe/Istanbul,fas,576i
 504TV.hn,SD,SD,TRUE,c/HN,America/Tegucigalpa,spa,480i
 50Canale.it,SD,SD,TRUE,c/IT,Europe/Rome,ita,576i
 51RadioTV.it,SD,SD,TRUE,c/IT,Europe/Rome,ita,576i
@@ -850,7 +850,6 @@ AflakTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 Aflam.sa,SD,SD,TRUE,r/ARAB,Asia/Riyadh,arz;ara,576i
 AflamTV.ma,SD,SD,TRUE,c/MA,Africa/Casablanca,ara;fra,576i
 AflaoTV.gh,SD,SD,TRUE,c/GH,Africa/Accra,eng,576i
-AFNLMusic.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 AFNFamily.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
 AFNGuide.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
 AFNMovie.us,SD,SD,TRUE,c/US,America/New_York,eng,480i
@@ -1824,7 +1823,7 @@ AraraTV.et,SD,SD,TRUE,c/ET,Africa/Addis_Ababa,orm,576i
 ArarunaTV.br,SD,SD,TRUE,s/BR-PB,America/Sao_Paulo,por,480i
 ArasTV.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
 AratuOn.br,SD,SD,TRUE,c/BR,America/Sao_Paulo,por,480i
-Aratv.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+AraTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 ARB.az,SD,SD,TRUE,c/AZ,Asia/Baku,aze,576i
 ARB24.az,SD,SD,TRUE,c/AZ,Asia/Baku,aze,576i
 ARBGunes.az,SD,SD,TRUE,c/AZ,Asia/Baku,aze,576i
@@ -2348,7 +2347,7 @@ AutoPlus.ru,SD,SD,TRUE,c/RU,Europe/Moscow,rus,576i
 AvaEntertainment.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,kur;eng,576i
 AVAFamily.ir,SD,SD,TRUE,c/IQ,Asia/Baghdad,fas,576i
 AvanceHD.hn,SD,SD,TRUE,c/HN,America/Tegucigalpa,spa,480i
-AvangTV.ir,SD,SD,TRUE,c/US;c/IR,America/Santiago,fas,480i
+AvangTV.us,SD,SD,TRUE,c/US;c/IR,America/Santiago,fas,480i
 AvarTV.iq,HD,HD,TRUE,c/IQ,Asia/Baghdad,kur,1080p
 AVASeries.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 AVASSTV.np,SD,SD,TRUE,c/NP,Asia/Kathmandu,nep,576i
@@ -2897,7 +2896,7 @@ BBCOne.uk,YorkshireLincolnshire,Yorkshire & Lincolnshire,FALSE,c/UK,Europe/Londo
 BBCOne.uk,YorkshireLincolnshireHD,Yorkshire & Lincolnshire HD,FALSE,c/UK,Europe/London,eng,1080i
 BBCParliament.uk,HD,HD,FALSE,c/UK,America/Toronto,eng,1080i
 BBCParliament.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
-BBCPersian.ir,SD,SD,TRUE,c/UK,America/Toronto,fas,576i
+BBCPersian.uk,SD,SD,TRUE,c/UK,America/Toronto,fas,576i
 BBCPie.uk,SD,SD,TRUE,c/UK,Europe/London,eng,576i
 BBCRedButton1.uk,HD,HD,FALSE,c/UK,America/Toronto,eng,1080i
 BBCRedButton1.uk,SD,SD,TRUE,c/UK,America/Toronto,eng,576i
