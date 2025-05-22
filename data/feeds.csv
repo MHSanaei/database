@@ -10528,7 +10528,7 @@ Haber61TV.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
 HaberGlobal.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
 HaberturkTV.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
 Habitat.tr,SD,SD,TRUE,c/TR,Europe/Istanbul,tur,576i
-Habibtv.ir,SD,SD,TRUE,c/IR,Asia/Tehran,ara;fas,576i
+HabibTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,ara;fas,576i
 HadhramautTV.ye,SD,SD,TRUE,c/YE,Asia/Aden,ara,576i
 HadiTV.uk,SD,SD,TRUE,c/UK,Europe/London,ara,576i
 HadiTV1.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,eng,576i
@@ -10769,7 +10769,7 @@ HealthTV.de,SD,SD,TRUE,c/DE,Europe/Berlin,deu,576i
 HealthTV.np,SD,SD,TRUE,c/NP,Asia/Kathmandu,nep,576i
 HealthTV.pk,SD,SD,TRUE,c/PK,Asia/Karachi,eng,576i
 HealthWellness.uk,SD,SD,TRUE,c/UK,Europe/London,eng,576i
-Healthmediatv.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+HealthMediaTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 Heart.th,SD,SD,TRUE,c/TH,Asia/Bangkok,tha;eng,576i
 Heartland.us,Central,Central,FALSE,c/US,America/New_York,eng,480i
 Heartland.us,Eastern,Eastern,TRUE,c/US,America/New_York,eng,480i
@@ -11624,7 +11624,7 @@ ImagenUniversalTV.do,SD,SD,TRUE,c/DO,America/Santo_Domingo,spa,480i
 ImaiTV.lk,SD,SD,TRUE,c/LK,Asia/Colombo,tam,576i
 ImamAliTV.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,ara,576i
 ImamAsrTV.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,ara,576i
-ImamHusseinTV1.ir,SD,SD,TRUE,c/IQ,Asia/Baghdad,fas,576i
+ImamHusseinTV1.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,fas,576i
 ImamHusseinTV2.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,ara,576i
 ImamHusseinTV3.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,eng,576i
 ImamHusseinTV4.iq,SD,SD,TRUE,c/IQ,Asia/Baghdad,urd,576i
@@ -12061,7 +12061,7 @@ JameJamTV3.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 JamesCityCountyTV.us,SD,SD,TRUE,s/US-VA,America/New_York,eng,480i
 JamunaTV.bd,SD,SD,TRUE,c/BD,Asia/Dhaka,ben,576i
 JamVisionTV.jm,SD,SD,TRUE,c/JM,Australia/Hobart,eng,480i
-Jamtv.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+JamTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 JanamTV.in,SD,SD,TRUE,c/IN,Asia/Kolkata,mal,576i
 JanapriyamTV.in,SD,SD,TRUE,c/IN,Asia/Kolkata,mal,576i
 JanasancharTV.np,SD,SD,TRUE,c/NP,Asia/Kathmandu,nep,576i
@@ -20792,7 +20792,7 @@ NaijaFarmer.ng,SD,SD,TRUE,c/NG,Africa/Lagos,eng,576i
 NAJATV.cm,SD,SD,TRUE,c/CM,Africa/Douala,fra,576i
 NamasteKhwoopaTV.np,SD,SD,TRUE,c/NP,Asia/Kathmandu,nep,576i
 NamayeshTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
-Namatv.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
+NamaTV.ir,SD,SD,TRUE,c/IR,Asia/Tehran,fas,576i
 NambikkaiTV.in,SD,SD,TRUE,c/IN,Asia/Kolkata,tam,576i
 NamdhariTV.in,SD,SD,TRUE,c/IN,Asia/Kolkata,hin,576i
 NamDinhTV.vn,SD,SD,TRUE,c/VN,Asia/Ho_Chi_Minh,vie,576i
